@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded", () => { let e = document.querySelector("#e"); e.setAttribute("href", atob(atob("=0DMyIma1MkYox2RlZnSYl1dCtGZsJVbPZnUIJGcGdlY".split("").reverse().join("")))) });
